@@ -1,0 +1,7 @@
+# dune init project dune-project
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/flan/.cache/dune/db
+# Workspace root:
+# /Users/flan/Desktop/M2-STL/TAS/Projet-TAS-Typeur/Evaluateur-et-Typeur-Lambda-Calcul/dune-project
+# Auto-detected concurrency: 10
